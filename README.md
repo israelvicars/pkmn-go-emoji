@@ -33,3 +33,7 @@ e.g pokeball.png will become :pokeball:
   - `:incubator:` <img src="http://i.imgur.com/R5CEGuD.png" height="36">
   - `:pokecoin:` <img src="http://i.imgur.com/WQQ7MkT.png" height="36">
   - `:backpack:` <img src="http://i.imgur.com/ETBPrcx.png" height="36">
+
+## Alternatives
+
+Use `pokemongo.yml` with [emojipacks](https://github.com/lambtron/emojipacks) as an alternative approach to bulk uploading these emoji.
